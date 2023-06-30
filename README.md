@@ -8,3 +8,4 @@ Navigate platform ingame using arrow keys.
 Open index.html, right click-open with live server.
 
 Adhurim Berisha & Gezim Bekteshi
+2023 june 
